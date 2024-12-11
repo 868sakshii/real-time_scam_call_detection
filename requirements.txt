@@ -1,0 +1,8 @@
+vosk
+pyaudio
+soundfile
+transformers
+torch
+scikit-learn
+numpy
+py-notifier
