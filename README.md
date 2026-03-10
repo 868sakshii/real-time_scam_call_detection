@@ -1,2 +1,6 @@
 # Scam Call Detection System
-A real-time system to detect potential scams in phone calls using speech-to-text, keyword detection, sentiment analysis, and risk scoring.
+Live Scam Call Shield System
+NLP-Based Fraud Detection — Python, React.js, DistilBERT
+• Developed a real-time scam call detection system with live transcription.
+• Achieved 85% classification accuracy using DistilBERT model.
+• Implemented automated alert mechanism for suspicious call detection.
